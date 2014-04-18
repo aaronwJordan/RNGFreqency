@@ -4,7 +4,6 @@ import java.util.Map.Entry;
 
 /*
  * Aaron Jordan
- * Homework #2
  * 2/5/2014
  */
 
